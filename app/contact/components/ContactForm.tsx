@@ -47,7 +47,7 @@ export default function ContactForm() {
     <div className="bg-white p-8 rounded-lg shadow-md max-w-4xl mx-auto">
       <h2 className="text-2xl font-bold mb-6">Get in Touch</h2>
       {submitSuccess ? (
-        <div className="text-green-600 mb-4">Thank you for your message. We'll be in touch soon!</div>
+        <div className="text-green-600 mb-4">Thank you for your message. We&apos;ll be in touch soon!</div>
       ) : (
         <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-6">
           {/* Name Field */}

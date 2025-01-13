@@ -4,11 +4,11 @@ const testimonials = [
   {
     quote: "Quick Consultancy transformed our business strategy, leading to a 30% increase in revenue.",
     author: "Jane Doe",
-    company: "Tech Innovators Inc.",
+    company: "Tech Innovators Inc",
     logo: "/placeholder.svg"
   },
   {
-    quote: "Their financial planning services helped us optimize our resources and expand our operations.",
+    quote: "Their financial planning services helped us optimize our resources and expand our operations",
     author: "John Smith",
     company: "Global Enterprises Ltd.",
     logo: "/placeholder.svg"
